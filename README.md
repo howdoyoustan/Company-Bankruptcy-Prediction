@@ -1,5 +1,5 @@
 # CaseStudy
-##Predicting Company Bankruptcy Using Financial Data
+Predicting Company Bankruptcy Using Financial Data
 
 Objective: To perform an in-depth analysis of a financial dataset to predict the likelihood of a
 company going bankrupt. The analysis involves data preprocessing, exploratory data analysis
